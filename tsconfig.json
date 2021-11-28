@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
-    "outDir": "./dist", // local onde o código em JavaScript será gerado
-    "module": "CommonJS", // se refere ao import e export, desse jeito o JavaScript será gerado da maneira que os navegadores entendem
-    "target": "ES2021", // vai gerar o JavaScript na versão selecionada
-    "esModuleInterop": true, // converte os módulos CommonJS para Module
-    "allowJs": true // permite arquivos de configuração em formato ".js"
+    "outDir": "./dist",
+    "module": "CommonJS",
+    "target": "ES2021",
+    "esModuleInterop": true,
+    "allowJs": true
   }
 }
